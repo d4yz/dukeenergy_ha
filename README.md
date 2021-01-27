@@ -1,2 +1,3 @@
-# dukeenergy_ha
-Duke Energy Home Assistant Integration
+# Duke Energy for Home Assistant
+
+## Installation
