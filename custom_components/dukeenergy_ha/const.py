@@ -1,1 +1,0 @@
-DOMAIN = "dukeenergy_ha"

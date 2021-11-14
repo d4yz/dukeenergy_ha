@@ -1,9 +1,0 @@
-{
-  "codeowners": ["d4yz"],
-  "config_flow": false,
-  "dependencies": [],
-  "documentation": "https://github.com/d4yz/dukeenergy_ha",
-  "domain": "dukeenergy_ha",
-  "name": "Duke Energy",
-  "requirements": []
-}
